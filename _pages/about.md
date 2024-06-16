@@ -18,8 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a PhD student at the University of Edinburgh, supervised by Prof. [Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/index.html) and Dr. [Yongxin Yang](https://yang.ac/), where I am funded by [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai).
+I obtained my BSc in computer science from Tongji University, in 2021.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am broadly interested in machine learning and its applications in biomedicine, especially with multi-modal learning and large vision-language models. Feel free to drop me an email for potential collaborations!
