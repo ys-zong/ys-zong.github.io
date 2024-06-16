@@ -9,7 +9,7 @@ profile:
   image: yzong.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University of Edinburgh</p>
+    <p>EH8 9AB</p>
     <p>Edinburgh, UK</p>
 
 news: true # includes a list of news items
