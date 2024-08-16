@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Survey on Self-supervised Multimodal Learning is accepted to IEEE T-PAMI!
+Survey on [Self-supervised Multimodal Learning](https://arxiv.org/abs/2304.01008) is accepted to IEEE T-PAMI!
