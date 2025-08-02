@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper from my internship at Amazon is accepted to CVPR'25!
+[Ground-V](https://openaccess.thecvf.com/content/CVPR2025/html/Zong_Ground-V_Teaching_VLMs_to_Ground_Complex_Instructions_in_Pixels_CVPR_2025_paper.html) from my internship at Amazon is accepted to CVPR'25!
